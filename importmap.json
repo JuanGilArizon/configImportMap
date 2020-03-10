@@ -1,0 +1,7 @@
+{
+      "imports": {
+        "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.1.0/lib/system/single-spa.min.js",
+        "@gilj_tutorial/root-config": "http://localhost:9000/root-config.js",
+        "@gilj_tutorial/musicians": "http://localhost:9001/gilj_tutorial-musicians.js"
+      }
+    }
